@@ -1,4 +1,4 @@
-## Practical Assignment 6: Web Media Data Collection and Social Networks Analysis
+## Practical Assignment 6A: Web Media Data Collection and Social Networks Analysis
 ##### Behavior Dynamics in Social Networks 2017
 
 **PS.:** Do you use Github? You can get this assignment from [the repository](https://github.com/ericinlinux/BDiSN_Assignment_06).
