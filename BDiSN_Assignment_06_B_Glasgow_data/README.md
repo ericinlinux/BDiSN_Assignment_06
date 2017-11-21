@@ -34,4 +34,4 @@ provided by the data set.
 
 ## The assignment
 
-The document for the assignment is [here](Assignment06v2.pdf).
+The document for the assignment is [here](Assignment06Bv1.pdf).
