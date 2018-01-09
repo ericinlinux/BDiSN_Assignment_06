@@ -1,0 +1,1 @@
+pandoc ./BDiSN_Assignment_06_A_Intro_Jupyter/Assignment_06A_v01/ASSIGNMENT_06_A.md -o BDiSN_Assignment_06A.pdf
